@@ -188,5 +188,5 @@ dal generale al particolare per la risposta finale.
 ---
 
 ## 👤 Autore
-Progetto sviluppato internamente per Zucchetti S.p.A.
+Progetto sviluppato come progetto di stage 
 ```
