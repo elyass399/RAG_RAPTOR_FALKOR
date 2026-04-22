@@ -173,8 +173,8 @@ dal generale al particolare per la risposta finale.
 - ✅ Risposte contestualizzate su domande complesse multi-paragrafo  
 - ✅ Routing automatico sul manuale corretto (GraphRAG)
 - ✅ Recupero gerarchico dal dettaglio alla panoramica (RAPTOR)
-- ⚠️ Possibili timeout intermittenti del proxy aziendale (retry automatico)
-- ⚠️ Abbassare `MIN_RELEVANCE` a `0.05` in `raptor_chat.py` se compaiono falsi "info non esiste"
+- ⚠️ Possibili timeout  (retry automatico)
+
 
 ---
 
