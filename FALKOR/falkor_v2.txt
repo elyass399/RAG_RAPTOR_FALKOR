@@ -1,0 +1,80 @@
+
+🚀 ZUCCHETTI MULTIGRAPH RAG
+📚 Grafi disponibili: ['LE17REGOLEDELCALCIO', 'STORIA_LE_GUERRE_PUNICHE', 'PROMPT_ENGINEERING']
+
+domanda : cos'è il fuori gioco
+   📂 Grafo selezionato: Zucchetti_LE17REGOLEDELCALCIO
+risposta ai : Il fuori gioco è quando un giocatore si trova senza pallone, vicino la linea della porta avversaria, a meno che: egli si trovi nella propria metà campo; vi siano due giocatori avversari tra la porta e lui; il pallone sia stato toccato per ultimo da un avversario; riceva il pallone direttamente da un calcio d'angolo o qualora sia stato rimesso dall'arbitro.
+-------------------------------------------------------------------------------------------------------------------------------
+domanda : chi è messi
+   📂 Grafo selezionato: Zucchetti_LE17REGOLEDELCALCIO
+risposta ai : Informazione non presente nei manuali.
+------------------------------------------------------------------------------------------------------------------------------------
+domanda : chi ha sconfitato annibale
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : Non è presente alcuna informazione nel testo che indichi chi abbia sconfitto Annibale.
+-------------------------------------------------------------------------------------------------------------------------------------
+domanda : scipione
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : Scipione fu affidato al console Scipione, che usò uno stratagemma. Scipione si diresse in Africa minacciando Cartagine.
+----------------------------------------------------------------------------------------------------------------------------------------
+domanda : cos'è il prompt engineering
+   📂 Grafo selezionato: Zucchetti_PROMPT_ENGINEERING
+risposta ai : Il prompt engineering significa riconoscere che la qualità dell'output dell'IA dipende in modo significativo dalla qualità dell'input fornito dall'utente, rendendo l'utente un co-creatore attivo del risultato finale. Questo sposta la percezione dell'IA da una "scatola nera" a uno strumento potente che possiamo dirigere con intelligenza. Il prompt engineering si basa su alcuni principi fondamentali e trasforma richieste generiche in istruzioni mirate, capaci di sbloccare risposte dall'IA significativamente più utili e precise.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+domanda : dimensioni del campo di calcio
+   📂 Grafo selezionato: Zucchetti_LE17REGOLEDELCALCIO
+risposta ai : Il campo di calcio ha una larghezza massima di 90 metri e una larghezza minima di 45 metri. Ha una lunghezza massima di 120 metri e una lunghezza minima di 90 metri.
+-----------------------------------------------------------------------------------------------------------------------------------------
+domanda : quant'è iniziata la seconda guerra punica
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : La seconda guerra punica è iniziata nel 218 A.C.
+--------------------------------------------------------------------------------------------------------------------------------
+domanda : quand'è finita la terza guerra punica
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : La terza guerra punica è finita nel 146 a.C.
+-------------------------------------------------------------------------------------------------------------------------------------------
+domanda : Quali sono i 5 pilastri fondamentali per creare un prompt efficace
+   📂 Grafo selezionato: Zucchetti_PROMPT_ENGINEERING
+risposta ai : I cinque pilastri fondamentali per creare un prompt efficace, secondo il testo, sono:
+
+1.  **Chiarezza e Specificità:** Essere diretti e formulare richieste in modo che l'IA possa comprendere esattamente cosa si sta chiedendo, evitando ambiguità.
+2.  **Fornire un Contesto:** Fornire informazioni di background rilevanti, dettagli sullo scopo della richiesta o sul pubblico a cui è destinata la risposta.
+3.  **Strutturare il Prompt:** Organizzare il prompt in modo logico, utilizzando elenchi puntati o numerati per scomporre istruzioni complesse.
+4.  **Instruction Prompting:** Dare istruzioni chiare e dirette all'IA, utilizzando verbi d'azione come "Elenca...", "Descrivi...", ecc.
+5.  **Role Prompting:** Assegnare all'IA un ruolo, un'identità o una "persona" specifica per influenzare lo stile e il tono della risposta.
+
+Il testo sottolinea inoltre che la qualità dell'output dell'IA dipende dalla qualità dell'input fornito dall'utente e che errori comuni come prompt vaghi o sovraccarichi possono compromettere i risultati.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+domanda : Zero-shot Prompting
+   📂 Grafo selezionato: Zucchetti_PROMPT_ENGINEERING
+risposta ai : Zero-shot Prompting si verifica quando si fornisce all'IA un'istruzione o una domanda diretta senza alcun esempio aggiuntivo di come dovrebbe essere la risposta. Questa tecnica funziona bene per compiti semplici, ben definiti, o per domande a cui il modello è stato ampiamente esposto durante il suo addestramento.
+-------------------------------------------------------------------------------------------------------------------------------------------
+domanda : quale regola fondamentale deve sempre essere rispettata riguardo al rapporto tra lunghezza e larghezzadel campo ?
+   📂 Grafo selezionato: Zucchetti_LE17REGOLEDELCALCIO
+risposta ai : La lunghezza deve essere maggiore della larghezza.
+----------------------------------------------------------------------------------------------------------------------------------------
+domanda : un giocatore non è considerato in fuorigioco se riceve il pallone direttamente da quali specifiche situazioni di ripresa del gioco?
+   📂 Grafo selezionato: Zucchetti_LE17REGOLEDELCALCIO
+risposta ai : Un giocatore non è considerato in fuorigioco se riceve il pallone direttamente da un calcio d'angolo o qualora sia stato rimesso dall'arbitro.
+----------------------------------------------------------------------------------------------------------------------------------------
+domanda : Qual è la differenza principale tra un calcio di punizione "diretto" e uno "indiretto"
+   📂 Grafo selezionato: Zucchetti_LE17REGOLEDELCALCIO
+risposta ai : Il calcio di punizione diretto consente di indirizzare la palla direttamente in porta, mentre il calcio di punizione indiretto richiede di passare la palla ad un compagno.
+------------------------------------------------------------------------------------------------------------------------------------------
+domanda : Perché queste guerre sono chiamate "puniche"
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : Queste guerre sono chiamate "puniche" perché i romani chiamavano Puni gli abitanti di Cartagine.
+--------------------------------------------------------------------------------------------------------------------------------------
+domanda : Nella seconda guerra punica, il generale Annibale compì un'azione che mise Roma in gravissima difficoltà. Quale fu la sua strategia per sorprendere i Romani e quale "errore" commise dopo la vittoria di Canne?
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : Nella seconda guerra punica, il generale Annibale decise di prendere di sorpresa Roma passando dove meno si aspettavano un attacco. Con un vasto esercito che comprendeva anche numerosi elefanti, Annibale attraversò le Alpi puntando verso il sud Italia. Annibale commise forse il suo unico errore, invece di attaccare subito Roma senza darle il tempo di riorganizzarsi, si ritirò per un lungo periodo con il suo esercito a Capua (in Campania) per far riposare i suoi soldati.
+--------------------------------------------------------------------------------------------------------------------------------------
+domanda : Quale fu la causa scatenante della terza guerra punica e quale destino finale spettò alla città di Cartagine per ordine del Senato romano?
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : La terza guerra punica fu scatenata quando Cartagine, disobbedendo al patto stretto con Roma, dichiarò guerra a un popolo vicino. Per ordine del Senato romano, Cartagine fu rasa al suolo.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+domanda : come si chiama il ponte usato nelle navi romani
+   📂 Grafo selezionato: Zucchetti_STORIA_LE_GUERRE_PUNICHE
+risposta ai : Il ponte mobile si chiamava CORVO.

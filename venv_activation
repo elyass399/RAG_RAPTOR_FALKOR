@@ -1,0 +1,3 @@
+python -m venv rag_finale
+rag_finale\Scripts\activate
+deactivate

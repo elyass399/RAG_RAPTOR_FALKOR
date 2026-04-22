@@ -1,0 +1,80 @@
+
+domanda : cos'è il fuori gioco
+risposta ai : Errore embedding.
+----------------------------------------________________-_________________________________---_____________________----------------------
+domanda : cos'è il fuori gioco
+risposta ai : Un giocatore si trova in posizione di fuorigioco se, in assenza di pallone, si trova vicino alla linea di porta avversaria. Tuttavia, la posizione non è considerata infrazione se:
+*   Il giocatore si trova nella propria metà campo.
+*   Tra la porta e il giocatore vi siano almeno due avversari.
+*   Il pallone è stato toccato per ultimo da un avversario.
+*   Il pallone viene ricevuto direttamente da un calcio d'angolo o da una rimessa dell'arbitro.
+---------------------------------------------------------------------------------------------------------------------------------
+domanda : chi è messi
+risposta ai : info non esiste
+--------------------------------------------------------------------------------------------------------------------------
+domanda : chi ha sconfitato annibale
+risposta ai : Scipione Emiliano
+--------------------------------------------------------------------------------------------------------------------------------
+domanda : scipione
+risposta ai : Scipione fu un generale romano, soprannominato "l'Africano" per le sue vittorie in Africa durante la Seconda Guerra Punica. Guidò le forze romane contro Cartagine, ottenendo la decisiva vittoria nella battaglia di Zama nel 202 a.C., che pose fine alla guerra.
+------------------------------------------------------------------------------------------------------------------------------
+domanda : cos'è il prompt engineering
+risposta ai : info non esiste
+------------------------------------------------------------------------------------------------------------------------------
+domanda : dimensioni del campo di calcio
+risposta ai : Gare Standard: Lunghezza 90-120 m; larghezza 45-90 m. Gare Internazionali: Lunghezza 100-110 m; larghezza 64-75 m.
+----------------------------------------------------------------------------------------------------------------------------
+domanda : quand'è finita la terza guerra punica
+risposta ai : 146 a.C.
+---------------------------------------------------------------------------------------------------------------------------
+domanda : Quali sono i 5 pilastri fondamentali per creare un prompt efficace
+risposta ai : I 5 pilastri fondamentali per creare un prompt efficace sono:
+
+1.  Chiarezza e Specificità: Utilizzare un vocabolario diretto e istruzioni precise, evitando linguaggi vaghi.
+2.  Contesto (Contextualization): Fornire informazioni di background, lo scopo della richiesta e il target di riferimento.
+3.  Strutturazione Logica: Organizzare il prompt con elenchi puntati, delimitatori o scomposizione di compiti complessi.
+4.  Definizione dell'Output: Specificare i parametri di risposta come formato, lunghezza, stile e target.
+5.  Iterazione: Sperimentare, osservare e affinare il prompt per ottimizzare il risultato.
+--------------------------------------------------------------------------------------------------------------------------
+domanda : Zero-shot Prompting
+risposta ai : RIASSUNTO:
+Il **Zero-shot Prompting** si verifica quando un Large Language Model (LLM) riceve un'istruzione o una domanda diretta senza alcun esempio preventivo di risposta. Questo approccio si basa esclusivamente sulla conoscenza pregressa acquisita durante l'addestramento del modello.
+
+**Meccanismo:** L'LLM elabora la risposta basandosi sulla propria conoscenza interna, senza l'influenza di esempi forniti.
+
+**Applicabilità:** È la tecnica più comune per compiti semplici, ben definiti o per interrogare conoscenze enciclopediche. Esempi includono:
+
+*   **Domande fattuali:** *"Qual è la capitale della Spagna?"*
+*   **Traduzione immediata:** *"Traduci 'Hello, world!' in italiano."*
+
+In sostanza, il Zero-shot Prompting sfrutta la capacità dell'LLM di generalizzare e rispondere a nuove richieste basandosi sulla sua vasta conoscenza pre-addestrata.
+----------------------------------------------------------------------------------------------------------------------------
+domanda : quale regola fondamentale deve sempre essere rispettata riguardo al rapporto tra lunghezza e larghezzadel campo ?
+risposta ai : info non esiste
+-------------------------------------------------------------------------------------------------------------------------
+domanda : un giocatore non è considerato in fuorigioco se riceve il pallone direttamente da quali specifiche situazioni di ripresa del gioco?
+risposta ai : Errore embedding.
+-------------------------------------------------------------------------------------------------------------
+domanda : un giocatore non è considerato in fuorigioco se riceve il pallone direttamente da quali specifiche situazioni di ripresa del gioco?
+risposta ai : riceve il pallone direttamente da un calcio d'angolo o qualora sia stato rimesso dall'arbitro.
+-------------------------------------------------------------------------------------------------------
+domanda : Qual è la differenza principale tra un calcio di punizione "diretto" e uno "indiretto"
+risposta ai : info non esiste
+------------------------------------------------------------------------------------------------------
+domanda : Perché queste guerre sono chiamate "puniche"
+risposta ai : Errore di rete
+-------------------------------------------------------------------------------------------------------
+domanda : Nella seconda guerra punica, il generale Annibale compì un'azione che mise Roma in gravissima difficoltà. Quale fu la sua strategia per sorprendere i Romani e quale "errore" commise dopo la vittoria di Canne?
+risposta ai : Nella seconda guerra punica, il generale Annibale implementò una strategia di attacco diretto al territorio romano, attraversando le Alpi con un vasto esercito e numerosi elefanti. Commise un errore strategico ritirandosi a Capua per riorganizzare le truppe invece di marciare su Roma.
+------------------------------------------------------------------------------------------------------
+domanda : Quale fu la causa scatenante della terza guerra punica e quale destino finale spettò alla città di Cartagine per ordine del Senato romano?
+risposta ai : Errore embedding.
+-------------------------------------------------------------------------------------------------------
+domanda : Quale fu la causa scatenante della terza guerra punica e quale destino finale spettò alla città di Cartagine per ordine del Senato romano?
+risposta ai : La terza guerra punica scoppiò a seguito della violazione dei trattati da parte di Cartagine, che dichiarò guerra a un popolo vicino. La città di Cartagine fu rasa al suolo per ordine del Senato romano.
+------------------------------------------------------------------------------------------------------
+domanda : come si chiama il ponte usato nelle navi romani
+risposta ai : Errore embedding.
+----------------------------------------------------
+domanda : come si chiama il ponte usato nelle navi romani
+risposta ai : Il ponte usato nelle navi romane si chiama CORVO.

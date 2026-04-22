@@ -1,0 +1,62 @@
+# ── CREDENZIALI E CONFIGURAZIONE ─────────────────────────────────────────────
+.env
+.env.*
+*.env
+secrets.json
+
+# ── PYTHON ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+pip-log.txt
+
+# ── AMBIENTI VIRTUALI ─────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── DATI GENERATI (NON COMMITTARE — possono essere rigenerat) ─────────────────
+output_smntc/
+output_raptor/
+markdowns/
+
+# ── PDF SORGENTE (spesso troppo pesanti per git) ──────────────────────────────
+pdfs/
+
+# ── MANUALI (opzionale — decommentare se i .md sono riservati) ───────────────
+# manuals/
+
+# ── FILE TEMPORANEI BRIDGE POWERSHELL ─────────────────────────────────────────
+req_*.json
+res_*.bin
+
+# ── FALKORDB / QDRANT VOLUMI LOCALI ──────────────────────────────────────────
+falkordb_data/
+qdrant_data/
+qdrant_storage/
+
+# ── IDE E EDITOR ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+.DS_Store
+Thumbs.db
+
+# ── LOG ───────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── JUPYTER ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
